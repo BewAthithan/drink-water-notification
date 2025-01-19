@@ -1,1 +1,1 @@
-# drink-water--notification
+# drink-water-notification
